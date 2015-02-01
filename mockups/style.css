@@ -2,6 +2,7 @@
 header {
 	background-color: #558C89;
 	width: 100%;
+	border-radius: 10px;
 }
 
 h1 {
@@ -23,6 +24,7 @@ h2 {
 
 button {
 	background-color: #D9853B;
+	border-radius: 5px;
 }
 
 ul {
@@ -30,6 +32,7 @@ ul {
 	padding-left: 3%;
 	padding-bottom: 10px;
 	border: 5px solid #74AFAD;
+	border-radius: 15px;
 	width: 63%;
 }
 
@@ -43,6 +46,11 @@ li {
 
 a {
 	text-decoration: none;
+}
+
+section {
+	padding-left: 5%;
+	padding-top: 20px;
 }
 
 #wrapper {
@@ -79,20 +87,23 @@ a {
 
 .form {
 	padding-left: 5%;
-	
-
+	padding-top: 20px;
 }
+
 
 .j_date {
 	padding:5px;
 	text-align: left;
+	border-radius: 10px;
 }
 
 
 .j_body {
+	padding: 5px;
+	text-align: left;
 	width:500px;
-	height:300px;
-	padding-top:;
+	height:100px;
+	border-radius: 10px;
 }
 
 
